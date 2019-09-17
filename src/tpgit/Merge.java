@@ -10,8 +10,5 @@ package tpgit;
  * @author qbayle
  */
 public class Merge {
-    public static void main(String[] args) {
-        System.out.print("Merge test");
-    }
     
 }
